@@ -23,4 +23,4 @@ Developed an interactive Power BI dashboard using Excel and SQL data to analyze 
 
 ## Dashboard Preview
 
-![Dashboard](Screenshot%202026-06-04%20153457.png)
+![Dashboard](Screenshot%202026-06-05%20130153.png)
