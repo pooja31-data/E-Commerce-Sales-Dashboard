@@ -55,7 +55,7 @@ order by total_sales_by_segment desc;
 select payment mode,
 count(order_id) as total_orders
 from ecommerce_data
-group by "payment mode"
+group by payment mode
 order by total_orders desc;
 
 -- profit by category
